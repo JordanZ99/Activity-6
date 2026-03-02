@@ -1,0 +1,21 @@
+{
+    "TVentas": [
+        {
+            "Fecha Datos": "2020-01-31 00:00:00",
+            "Divisiones": "División A",
+            "Subdivisiones": "Subdivisión A1",
+            "Ciudad": "Vancouver",
+            "Ventas": 3164127.132,
+            "Objetivo": 2076935.4
+        },
+        {
+            "Fecha Datos": "2020-01-31 00:00:00",
+            "Divisiones": "División A",
+            "Subdivisiones": "Subdivisión A2",
+            "Ciudad": "Seattle",
+            "Ventas": 715082.8,
+            "Objetivo": 1831601.815
+        }
+        
+    ]
+}
